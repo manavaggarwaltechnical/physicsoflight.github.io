@@ -1,0 +1,54 @@
+hr {
+  width: 950px;
+  height: 10px;
+  background-color: blue;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: blue;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px red;
+}
+p {
+  text-indent: 35px;
+  line-height: 1.8;
+  text-transform: capitalize;
+  color: royalblue;
+  font-style: oblique;
+  font-family: Book Antiqua;
+  font-size: large;
+  background-color: whitesmoke;
+  word-break: break-all;
+}
+li {
+  font-size: 30px;
+  color: green;
+  list-style-type: upper-roman;
+}
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+h3 {
+  text-align: left;
+  text-transform: uppercase;
+  color: royalblue;
+  text-decoration: underline;
+  text-shadow: 2px 2px red;
+}
+h4 {
+  text-align: right;
+  text-transform: uppercase;
+  color: red;
+  text-decoration: underline;
+  text-shadow: 2px 2px blue;
+}
+td {
+  text-align: end;
+}
+h6 {
+  font-size: x-large;
+  font-family: Times New Roman;
+  font-style: italic;
+}
